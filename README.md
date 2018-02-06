@@ -18,23 +18,26 @@
     <sup><strong><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>.<br/>
 </p>
 
-**Mission Title** 
+**UNA Template** 
 
-Description.
+This is a **Base Modset** Template for all dynamic missions I make for UNA.
 
 ## Mission features
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+- Dynamic battles using the ALiVE System
+- ACE system with parameters adjustable in mission parameters
+- Stripped out and cleaned up version of Patrol Ops 3 tasking system
+- Civilian interaction improvements using Spyder Addons
+- Task Force Arrowhead Radio
 
 ## Required Mods
 <br/><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>
 
-- Mod 1
-- Mod 2
-- Mod 3
+- CBA_A3
+- ACE3
+- ACEX
+- ALiVE
+- Spyder Addons
 
 
 ## Contributing
