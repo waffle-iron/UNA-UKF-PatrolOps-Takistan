@@ -16,13 +16,12 @@
 
 <p align="center">
     <sup><strong><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>.<br/>
+        </a>
 </p>
 
-**UNA Template** 
+**UNA Template** This is a **Base Modset** Template for all dynamic missions I make for UNA.
 
-This is a **Base Modset** Template for all dynamic missions I make for UNA.
-
-### Mission features
+## Mission features
 
 - Dynamic battles using the ALiVE System
 - ACE system with parameters adjustable in mission parameters
