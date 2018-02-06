@@ -19,15 +19,15 @@
         </a></strong></sup>
 </p>
 
-**UNA Template**
+**UNA UKF PatrolOps Takistan**
 
-This is a **Base Modset** Template for all dynamic missions I make for UNA.
+This is a **Patrol Ops** based mission using **ALiVE** set in **Takistan**.
 
 ## Mission features
 
-- Dynamic battles using the ALiVE System
-- ACE system with parameters adjustable in mission parameters
-- Stripped out and cleaned up version of Patrol Ops 3 tasking system
+- Stripped out and cleaned up version of the Patrol Ops 3 tasking system by Roy86
+- Additional dynamic battles and ambiance using the ALiVE System
+- ACE system with settings adjustable in mission parameters
 - Civilian interaction improvements using Spyder Addons
 - Task Force Arrowhead Radio
 
