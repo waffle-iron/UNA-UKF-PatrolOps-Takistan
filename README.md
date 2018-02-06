@@ -7,19 +7,10 @@
         <img src="https://img.shields.io/badge/Version-1.00-blue.svg?style=flat-square" alt="UNA-Template Version">
     </a>
     <a href="https://github.com/EchoTwoZero/UNA-Template/issues">
-        <img src="https://img.shields.io/github/issues-raw/acemod/ACE3.svg?style=flat-square&label=Issues" alt="UNA-Template Issues">
-    </a>
-    <a href="https://github.com/EchoTwoZero/UNA-Template/releases">
-        <img src="https://img.shields.io/github/downloads/EchoTwoZero/UNA-Template/total.svg?style=flat-square&label=Downloads" alt="UNA-Template Downloads">
+        <img src="https://img.shields.io/github/issues-raw/EchoTwoZero/UNA-Template.svg?style=flat-square&label=Issues" alt="UNA-Template Issues">
     </a>
     <a href="https://github.com/EchoTwoZero/UNA-Template/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-GPLv2-red.svg?style=flat-square" alt="UNA-Template License">
-    </a>
-    <a href="https://slackin.ace3mod.com/">
-        <img src="https://slackin.ace3mod.com/badge.svg?style=flat-square&label=Slack" alt="ACE3 Slack">
-    </a>
-    <a href="https://travis-ci.org/acemod/ACE3">
-        <img src="https://img.shields.io/travis/acemod/ACE3.svg?style=flat-square&label=Build" alt="ACE3 Build Status">
     </a>
 </p>
 
