@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/EchoTwoZero/UNA-Template/raw/master/extras/assets/una_title.jpg" width="480">
+    <img src="https://github.com/EchoTwoZero/UNA-Template/blob/master/extras/assets/logo/una_title.jpg?raw=true" width="480">
 </p>
 
 <p align="center">
