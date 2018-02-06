@@ -29,6 +29,16 @@ Description.
 - Feature 3
 - Feature 4
 
+## Required Mods
+
+<br/><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>
+
+- Mod 1
+- Mod 2
+- Mod 3
+
+
+
 ## Contributing
 
 You're more than welcome to contribute to my work, and can help out with the ongoing development of the mission by looking for potential bugs or suggesting improvements. Please check out the issue tracker and create an issue if you want me to look into something.  Before doing so, please check that the issue doesn't already exist to avoid duplication.
