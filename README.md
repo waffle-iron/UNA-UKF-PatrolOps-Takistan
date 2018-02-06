@@ -15,57 +15,19 @@
 </p>
 
 <p align="center">
-    <sup><strong>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a>.<br/>
-    Visit us on <a href="https://twitter.com/ACE3Mod">Twitter</a> | <a href="https://www.facebook.com/ACE3Mod">Facebook</a> | <a href="https://www.youtube.com/c/ACE3Mod">YouTube</a> | <a href="https://www.reddit.com/r/arma/search?q=ACE&restrict_sr=on&sort=new&t=all">Reddit</a></strong></sup>
+    <sup><strong>Required Mods<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509"></a>.<br/>
 </p>
 
-**Mission Title** description.
+**Mission Title** 
 
-The mission is entirely **open-source** and all contributions are welcome. Feel free to maintain your own custom version, so long as the changes you make are open to the public in accordance with the GNU General Public License ([GPLv2](https://github.com/EchoTwoZero/UNA-Template/blob/master/LICENSE)).
+Description.
 
-## Core features
+## Mission features
 
-- Brand new 3D interaction/action system
-- Performance and reliability framework
-- Focus on modularity and customization
-- New flexible client and server settings & configuration
-- Improved medical system with various levels (basic/advanced) focus on gameplay/realism
-- Proper & consistent network-synced weather
-- Wind and weather-based ballistics
-- Captivity system
-- Explosives system, including different trigger types
-- Map screen improvements – marker placement and map tools
-- Logistics
-- Advanced missile guidance and laser designation
-
-### Additional features
-
-- Carrying and dragging
-- Realistic names for vehicles and weapons
-- A fire control system (FCS) for armored vehicles and helicopters
-- Realistic ballistics/FCS calculated in C/C++ extensions
-- Backblast area and overpressure simulation
-- Disposable launchers
-- Realistic G-forces
-- Vehicle locking
-- Realistic night and thermal vision modes
-- Magazine repacking
-- Realistic weapon overheating mechanic
-- Combat deafness (temporary loss of hearing) simulation
-- Improved interactions for AARs and ammo bearers
-- Adjustable sniper scopes
-- No idle animation with lowered weapon
-- No talking player avatar
-- Jumping over obstacles, climbing over walls and cutting down fences
-- Vector, MicroDAGR and Kestrel devices<br>
-***and much more...***
-
-## Getting started
-
-ACE3 requires Arma 3 and the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a>. See the following pages for help and information on how to get started with ACE3: 
-
-- [Installation guide](https://ace3mod.com/wiki/user/installation-guide.html)
-- [Information center](https://ace3mod.com/wiki/user/information-center.html)
+- Feature 1
+- Feature 2
+- Feature 3
+- Feature 4
 
 ## Contributing
 
