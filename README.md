@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/EchoTwoZero/UNA-UKF-PatrolOps-Takistan.png?columns=all)](https://waffle.io/EchoTwoZero/UNA-UKF-PatrolOps-Takistan?utm_source=badge)
 <p align="center">
     <img src="https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/blob/master/extras/assets/logo/una_title.jpg?raw=true" width="480">
 </p>
