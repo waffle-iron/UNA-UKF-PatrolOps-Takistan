@@ -30,13 +30,11 @@ Description.
 - Feature 4
 
 ## Required Mods
-
 <br/><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>
 
 - Mod 1
 - Mod 2
 - Mod 3
-
 
 
 ## Contributing
