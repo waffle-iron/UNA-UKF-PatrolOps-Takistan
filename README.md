@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <sup><strong>Required Mods<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509"></a>.<br/>
+    <sup><strong><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>.<br/>
 </p>
 
 **Mission Title** 
