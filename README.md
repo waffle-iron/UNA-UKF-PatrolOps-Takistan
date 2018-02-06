@@ -39,6 +39,23 @@ This is a **Patrol Ops** based mission using **ALiVE** set in **Takistan**.
 - ACEX
 - ALiVE
 - Spyder Addons
+- 3CB BAF Equipment
+- 3CB BAF Units
+- 3CB BAF Units (ACE Compatibility)
+- 3CB BAF Vehicles
+- 3CB BAF Vehicles (Servicing Extension)
+- 3CB BAF Weapons
+- 3CB BAF Weapons (ACE Compatibility)
+- Advanced Sling Loading
+- Ares Mod - Achilles Expansion
+- CUP ACE3 Compatibility Addon - Vehicles
+- CUP ACE3 Compatibility Addon - Weapons
+- CUP Terrains - Core
+- CUP Terrains - Maps
+- CUP Units
+- CUP Vehicles
+- CUP Weapons
+- Task Force Arrowhead Radio
 
 
 ## Contributing
