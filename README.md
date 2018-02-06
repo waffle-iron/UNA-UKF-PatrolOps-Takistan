@@ -21,7 +21,7 @@
 
 **UNA Template**
 
-<p>This is a **Base Modset** Template for all dynamic missions I make for UNA.</p>
+This is a **Base Modset** Template for all dynamic missions I make for UNA.
 
 ## Mission features
 
