@@ -45,12 +45,6 @@ You're more than welcome to contribute to my work, and can help out with the ong
 
 Please, use the [Issue Tracker](https://github.com/EchoTwoZero/UNA-Template/issues) to report a bug, propose an improvement, or suggest changes to the existing ones. See also:
 
-### Testing & building
-
-To help us test the latest development changes, download our master branch ([directly](https://github.com/acemod/ACE3/archive/master.zip), or [with git](https://help.github.com/articles/fetching-a-remote/)), then assemble a test build:
-
-- [Setting up the development environment](https://ace3mod.com/wiki/development/setting-up-the-development-environment.html) – step-by-step instructions on how to properly setup and build a version of ACE3 for testing purposes.
-
 ### Join the Clan
 
 <table>
