@@ -3,20 +3,17 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/acemod/ACE3/releases/latest">
-        <img src="https://img.shields.io/badge/Version-3.12.1-blue.svg?style=flat-square" alt="ACE3 Version">
+    <a href="https://github.com/EchoTwoZero/UNA-Template/releases/latest">
+        <img src="https://img.shields.io/badge/Version-1.00-blue.svg?style=flat-square" alt="UNA-Template Version">
     </a>
-    <a href="https://github.com/acemod/ACE3/issues">
-        <img src="https://img.shields.io/github/issues-raw/acemod/ACE3.svg?style=flat-square&label=Issues" alt="ACE3 Issues">
+    <a href="https://github.com/EchoTwoZero/UNA-Template/issues">
+        <img src="https://img.shields.io/github/issues-raw/acemod/ACE3.svg?style=flat-square&label=Issues" alt="UNA-Template Issues">
     </a>
-    <a href="https://github.com/acemod/ACE3/releases">
-        <img src="https://img.shields.io/github/downloads/acemod/ACE3/total.svg?style=flat-square&label=Downloads" alt="ACE3 Downloads">
+    <a href="https://github.com/EchoTwoZero/UNA-Template/releases">
+        <img src="https://img.shields.io/github/downloads/EchoTwoZero/UNA-Template/total.svg?style=flat-square&label=Downloads" alt="UNA-Template Downloads">
     </a>
-    <a href="https://forums.bistudio.com/topic/181341-ace3-a-collaborative-merger-between-agm-cse-and-ace/?p=2859670">
-        <img src="https://img.shields.io/badge/BIF-Thread-lightgrey.svg?style=flat-square" alt="BIF Thread">
-    </a>
-    <a href="https://github.com/acemod/ACE3/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/License-GPLv2-red.svg?style=flat-square" alt="ACE3 License">
+    <a href="https://github.com/EchoTwoZero/UNA-Template/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/License-GPLv2-red.svg?style=flat-square" alt="UNA-Template License">
     </a>
     <a href="https://slackin.ace3mod.com/">
         <img src="https://slackin.ace3mod.com/badge.svg?style=flat-square&label=Slack" alt="ACE3 Slack">
