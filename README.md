@@ -1,16 +1,16 @@
 <p align="center">
-    <img src="https://github.com/EchoTwoZero/UNA-Template/blob/master/extras/assets/logo/una_title.jpg?raw=true" width="480">
+    <img src="https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/blob/master/extras/assets/logo/una_title.jpg?raw=true" width="480">
 </p>
 
 <p align="center">
-    <a href="https://github.com/EchoTwoZero/UNA-Template/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.00-blue.svg?style=flat-square" alt="UNA-Template Version">
+    <a href="https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/releases/latest">
+        <img src="https://img.shields.io/badge/Version-1.00-blue.svg?style=flat-square" alt="UNA-UKF-PatrolOps-Takistan Version">
     </a>
-    <a href="https://github.com/EchoTwoZero/UNA-Template/issues">
-        <img src="https://img.shields.io/github/issues-raw/EchoTwoZero/UNA-Template.svg?style=flat-square&label=Issues" alt="UNA-Template Issues">
+    <a href="https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/issues">
+        <img src="https://img.shields.io/github/issues-raw/EchoTwoZero/UNA-UKF-PatrolOps-Takistan.svg?style=flat-square&label=Issues" alt="UNA-UKF-PatrolOps-Takistan Issues">
     </a>
-    <a href="https://github.com/EchoTwoZero/UNA-Template/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/License-GPLv2-red.svg?style=flat-square" alt="UNA-Template License">
+    <a href="https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/License-GPLv2-red.svg?style=flat-square" alt="UNA-UKF-PatrolOps-Takistan License">
     </a>
 </p>
 
@@ -47,7 +47,7 @@ You're more than welcome to contribute to my work, and can help out with the ong
 
 ### Submitting issues and requesting improvements
 
-Please, use the [Issue Tracker](https://github.com/EchoTwoZero/UNA-Template/issues) to report a bug, propose an improvement, or suggest changes to the existing ones. See also:
+Please, use the [Issue Tracker](https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/issues) to report a bug, propose an improvement, or suggest changes to the existing ones. See also:
 
 ### Join the Clan
 
@@ -60,4 +60,4 @@ Please, use the [Issue Tracker](https://github.com/EchoTwoZero/UNA-Template/issu
 
 ## License
 
-UNA-Template is licensed under the GNU General Public License ([GPLv2](https://github.com/EchoTwoZero/UNA-Template/blob/master/LICENSE)).
+UNA-UKF-PatrolOps-Takistan is licensed under the GNU General Public License ([GPLv2](https://github.com/EchoTwoZero/UNA-UKF-PatrolOps-Takistan/blob/master/LICENSE)).
