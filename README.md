@@ -16,7 +16,7 @@
 
 <p align="center">
     <sup><strong><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1286303509">Steam Workshop Mod Collection</a>.<br/>
-        </a>
+        </a></strong></sup>
 </p>
 
 **UNA Template**
