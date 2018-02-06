@@ -22,7 +22,7 @@
 
 This is a **Base Modset** Template for all dynamic missions I make for UNA.
 
-## Mission features
+### Mission features
 
 - Dynamic battles using the ALiVE System
 - ACE system with parameters adjustable in mission parameters
